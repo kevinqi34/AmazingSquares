@@ -1,0 +1,24 @@
+
+
+#square {
+	height: 60px;
+	width: 60px;
+	background-color: black;
+	position: fixed;
+
+
+
+	}
+	
+	
+#squared {
+	height: 58px;
+	width: 58px;
+	border: 1px solid black;
+	position: fixed;
+	display: none;
+
+
+
+
+	}	
